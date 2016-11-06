@@ -1,4 +1,4 @@
-# Library Game
+# Library
 Mini Test DSL for adding games to library
 
 add to library
